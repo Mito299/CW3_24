@@ -6,7 +6,7 @@ function showSchedule() {
     switch (day) {
         case "1":
             scheduleText = `
-                    <p>ຊ/ມ 1: Ex ພາສາອັງກິດ ຫ້ອງ: (FNS201)</p>
+                    <p>ຊ/ມ 1: Ex ພາສາອັງກິດ ຫ້ອງ: (FNS210)</p>
                     <p>ຊ/ມ 2: lab Mis Access jan ສົມມະນີ້: (CS003)</p>
                     <p>ຊ/ມ 3: Lect ລະບົບຄອມພິວເຕີ: (MA201)</p>
                     <p>ຊ/ມ 4: ວ່າງ</p>
