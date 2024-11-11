@@ -23,7 +23,7 @@ function showSchedule() {
         case "3":
             scheduleText = `
                     <p>ຊ/ມ 1: ວ່າງ</p>
-                    <p>ຊ/ມ 2: Lect ຄະນິດສາດສຳຮັບຄອມພິວເຕີ: (MA205)</p>
+                    <p>ຊ/ມ 2: Lect ຄະນິດສາດສຳຮັບຄອມພິວເຕີ: (MA201)</p>
                     <p>ຊ/ມ 3: Lad java: (CS005)</p>
                     <p>ຊ/ມ 4: ວ່າງ</p>
                 `;
