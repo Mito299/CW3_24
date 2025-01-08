@@ -30,7 +30,7 @@ function showSchedule() {
             break;
         case "4":
             scheduleText = `
-                    <p>ຊ/ມ 1: Lect ລາວສຶກສາ1
+                    <p>ຊ/ມ 1: Lect ລາວສຶກສາ1 (MA201)
                     <p>ຊ/ມ 2: EX ຄະນິດສາດສຳລັບຄອມພິວເຕີ: (FNS403)</p>
                     <p>ຊ/ມ 3: ວ່າງ</p>
                     <p>ຊ/ມ 4: ວ່າງ</p>
@@ -39,7 +39,7 @@ function showSchedule() {
         case "5":
             scheduleText = `
                     <p>ຊ/ມ 1: ວ່າງ</p>
-                    <p>ຊ/ມ 2: Lect ຈິດວິທະຍາທົ່ວໄປ: (MA205)</p>
+                    <p>ຊ/ມ 2: Lect ຈິດວິທະຍາທົ່ວໄປ: (MA201)</p>
                     <p>ຊ/ມ 3: Lad ການນຳໃຊ້ຊອບພື້ນຖານ: (CS003)</p>
                     <p> 4:ຊ/ມ ວ່າງ</p>
                 `;
